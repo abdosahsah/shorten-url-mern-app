@@ -1,5 +1,6 @@
 # shorten-url-mern-app
 URL Shortener Using MERN Stack (MongoDB, Express.js, React.js, Node.js) and Redux Toolkit as State Management
+[Client repository for Shorten URL app](https://github.com/abdosahsah/shorten-url-app-client)
 
 ## Features 💡
 
